@@ -6,7 +6,7 @@ I am a woman in tech with a passion for Cybersecurity!😊💻
 My degrees in Information Systems and Cybersecurity have sparked a deep interest in protecting systems and tackling security challenges. I'm excited to dive into roles like SOC Analyst, Detection Engineering, Incident Response, and other cybersecurity positions
 
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Project         |
 |-----------------------------------------------|----------------------------|
 | Keylogger Attack                              | <a href="https://medium.com/@swathitadepalli/administering-a-keylogger-attack-part-1-attack-adf67ddcef59"> Lab</a>|
 | Keylogger Attack Detection                    | <a href="https://medium.com/@swathitadepalli/administering-a-keylogger-attack-part-2-detections-7121170ea949"> Lab</a>|
