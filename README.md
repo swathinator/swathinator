@@ -5,7 +5,7 @@
 
 I am a woman in tech with a passion for Cybersecurity!😊💻
 
-My degrees in Information Systems and Cybersecurity have sparked a deep interest in protecting systems and tackling security challenges. I'm excited to dive into roles like SOC Analyst, Detection Engineering, Incident Response, and other cybersecurity positions
+My degrees in Information Systems and Cybersecurity have sparked a deep interest in protecting systems and tackling security challenges. I'm excited to dive into roles like SOC Analyst, Detection Engineer, Incident Response, and other cybersecurity positions
 
 
 | Skill                                         | Project         |
