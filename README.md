@@ -11,7 +11,7 @@ My degrees in Information Systems and Cybersecurity have sparked a deep interest
   <img src="https://github.com/user-attachments/assets/590d457b-7f07-46ef-ad3b-e115ade309de" width="400">
 
 
-My favorite pastime is experimenting in my homelab and learning as much as I can, join me on my cybersecurity journey! 
+My favorite pastime is experimenting in my homelab and learning as much as I can, join me on my cybersecurity journey!: 
 
 
 
