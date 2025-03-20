@@ -7,12 +7,19 @@ I am a woman in tech with a passion for Cybersecurity!😊💻
 
 My degrees in Information Systems and Cybersecurity have sparked a deep interest in protecting systems and tackling security challenges. I'm excited to dive into roles like SOC Analyst, Detection Engineer, Incident Responder, and other cybersecurity positions
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/590d457b-7f07-46ef-ad3b-e115ade309de" width="500">
+</div>
+
+My favorite pastime is experimenting in my homelab and learning as much as I can, join me on my cybersecurity journey! 
+
+
 
 | Project                                       | Lab         |
 |-----------------------------------------------|----------------------------|
 | Keylogger Attack                              | <a href="https://medium.com/@swathitadepalli/administering-a-keylogger-attack-part-1-attack-adf67ddcef59"> Lab</a>|
 | Keylogger Attack Detection                    | <a href="https://medium.com/@swathitadepalli/administering-a-keylogger-attack-part-2-detections-7121170ea949"> Lab</a>|
-| Sysmon Integration                            | <a href="https://medium.com/@swathitadepalli/administering-a-keylogger-attack-part-2-detections-7121170ea949"> Lab</a>|
+| Sysmon Integration                            | <a href="https://medium.com/@swathitadepalli/improving-windows-logging-visibility-in-elastic-12e2f6996e64"> Lab</a>|
 
 
 ### Network
