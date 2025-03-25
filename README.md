@@ -16,11 +16,11 @@ My favorite pastime is experimenting in my homelab and learning as much as I can
 
 
 
-| Project                                       | Lab         |
-|-----------------------------------------------|----------------------------|
-| Keylogger Attack                              | <a href="https://medium.com/@swathitadepalli/administering-a-keylogger-attack-part-1-attack-adf67ddcef59"> Lab</a>|
-| Keylogger Attack Detection                    | <a href="https://medium.com/@swathitadepalli/administering-a-keylogger-attack-part-2-detections-7121170ea949"> Lab</a>|
-| Sysmon Integration                            | <a href="https://medium.com/@swathitadepalli/improving-windows-logging-visibility-in-elastic-12e2f6996e64"> Lab</a>|
+| Projects                                       
+|---------------------------------------------------------------------------|
+|<a href="https://medium.com/@swathitadepalli/administering-a-keylogger-attack-part-1-attack-adf67ddcef59"> Keylogger Attack </a>|
+|<a href="https://medium.com/@swathitadepalli/administering-a-keylogger-attack-part-2-detections-7121170ea949"> Keylogger Attack Detection </a>|
+|<a href="https://medium.com/@swathitadepalli/improving-windows-logging-visibility-in-elastic-12e2f6996e64"> Sysmon Integration </a>|
 
 
 ### Network
