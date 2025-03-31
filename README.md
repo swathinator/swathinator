@@ -26,6 +26,8 @@ My favorite pastime is experimenting in my homelab and learning as much as I can
 |<a href="https://github.com/swathinator/C2-Analysis"> C2 Analysis </a>|
 |<a href="https://github.com/swathinator/Spidertrap"> Spidertrap </a>|
 |<a href="https://github.com/swathinator/Honey-User"> Honey User </a>|
+|<a href="https://github.com/swathinator/Portspoof"> Portspoof </a>|
+|<a href="https://github.com/swathinator/Web-Honeypot"> Web Honeypot </a>|
 
 
 ### Network
